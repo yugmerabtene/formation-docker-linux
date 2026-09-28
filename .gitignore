@@ -1,0 +1,15 @@
+# Secrets et configuration locale
+.env
+.env.*
+secrets/
+ghp_*
+
+# Dépendances Node.js
+node_modules/
+
+# Fichiers temporaires
+*.tmp
+*.swp
+
+# Sorties de laboratoire
+*.log
